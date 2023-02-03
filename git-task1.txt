@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my individual task 1 file  now the conflict will be created.
+=======
+this is my individual task 1 file and now intentionally overriding to cause conflict.
+>>>>>>> develop
