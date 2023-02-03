@@ -1,1 +1,1 @@
-this is my individual task 1 file
+this is my individual task 1 file and now intentionally overriding to cause conflict.
